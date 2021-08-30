@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Справочник</string>
+    <string name="fish">Рыбы</string>
+    <string name="ptici">Морские птицы</string>
+    <string name="svini">Морские свиньи</string>
+    <string name="ej">Собаки</string>
+    <string name="cat">Кошки</string>
+</resources>
